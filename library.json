@@ -1,0 +1,10 @@
+{
+    "name": "ingestion-sdk-c",
+    "version": "0.0.0",
+    "build": {
+        "flags": [
+            "-I inc",
+            "-I inc/signing"
+        ]
+    }
+}
